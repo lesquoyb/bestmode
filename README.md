@@ -13,7 +13,7 @@ Exactly as for Beast mode:
 2. Select "Create new custom chat mode file"
 3. Select "User Data Folder"
 4. Give it a name (BestMode)
-5. Paste in the content of beastmode.chatmode.md
+5. Paste in the content of bestmode.chatmode.md
 6. Go back to the "agent" dropdown and select the new mode (BestMode)
 
 
