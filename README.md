@@ -31,7 +31,7 @@ The agent will automatically follow BestMode's optimized workflows.
 - Less emojis in chat and code/comments
 - Less emphasis on internet research
 - Less emphasis on tests all the time. Only do tests when the task is completed
-- Fixes reference to `fetch` instead of `fetch_webpage` 
+- Fixes reference to `fetch_webpage` instead of `fetch` 
 - More emphasis on thinking and producing correct code 
 - No more automatic md file after each request unless specifically asked for, a concise summary is done in the chat
 - Should document assumptions
